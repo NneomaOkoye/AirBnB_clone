@@ -5,4 +5,3 @@ Description of the command interpreter:
 -Retrive an object from a file
 -Do operations on object
 -Destroy an object
-
